@@ -7,19 +7,9 @@
 - numpy
 - sklearn
 
-### Обработка текста
-- BertTokenizer, BertModel (transformers)
-- TfidfVectorizer (sklearn)
-- Регулярные выражения (re)
-- SnowballStemmer, stopwwords (nltk)
-
-### Модели
-- CatBoostClassifier
-- LogisticRegression, DummyClassifier (sklearn)
-
-### Вспомогательные средсва
-- GridSearchCV, RandomizedSearchCV (sklearn)
-- Отслеживание времени выполнения (tqdm, time)
+| Обработка текста | Модели | Вспомогательные средсва |
+| ---------------- | ------ | ----------------------- |
+| BertTokenizer, BertModel (transformers) <br/> TfidfVectorizer (sklearn) <br/> Регулярные выражения (re) <br/> SnowballStemmer, stopwwords (nltk) | CatBoostClassifier <br/> LogisticRegression (sklearn) <br/> DummyClassifier | GridSearchCV, RandomizedSearchCV (sklearn) <br/> Время выполнения (tqdm, time)
 
 ## Выводы
 Проведено исследование вариантов сочетаний предобработки текстов и ML моделей.   

@@ -1,6 +1,6 @@
 # Анализ текстов на токсичность
 Требуется классифицировать комментарии пользователей на английском языке на нейтральные и токсичные для отправки на модерацию.  
-[ipynb](https://github.com/sotwra/Portfolio/blob/main/NLP%20Text%20classification/NLP_comments_classification.ipynb)
+[ipynb](https://github.com/sotwra/Portfolio/blob/main/NLP%20Text%20classification/NLP_comments_classification.ipynb) <br/> 
 [html](https://github.com/sotwra/Portfolio/blob/main/NLP%20Text%20classification/NLP_comments_classification.html)
 
 ## Стек

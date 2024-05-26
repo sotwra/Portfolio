@@ -7,3 +7,6 @@
 |---| ---------------------| ---------- | -------- | ---- |
 |1.| [Анализ текстов на токсичность](https://github.com/sotwra/Portfolio/tree/main/NLP%20Text%20classification)| NLP | Сентимент-анализ комментариев | python, pandas, numpy, sklearn, Bert(transformers), TF-IDF, Регулярные выражения (re), CatBoost |  
 |2.| [Прогнозирование заказов такси](https://github.com/sotwra/Portfolio/tree/main/Taxi%20orders%20forecasting)| Временные ряды | Прогнозировать кол-во заказов такси на следующий час| python, pandas, numpy, sklearn, statsmodels, Prophet, LGBMRegressor, itertools, matplotlib |
+
+Проекты выполнены на Python 3.12.2 в IDE VS Code.   
+Данные об окружении лежат в [`requirements.txt`](https://github.com/sotwra/Portfolio/blob/main/requirements.txt)

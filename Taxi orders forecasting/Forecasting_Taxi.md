@@ -419,11 +419,7 @@ df.sort_index(ascending=True, inplace=True)
 ``` python
 df.plot(figsize=(15,5), legend=False, title='Количество заказов такси в час');
 ```
-
-::: {.output .display_data}
 ![](Taxi orders forecasting/Forecasting_Taxi_Picks/d9ca1abe592342d27d0a07b438491762bae070a4.png)
-:::
-:::
 
 ::: {.cell .markdown}
 График с ресемплированием в час не очень хорошо читается, сделаем

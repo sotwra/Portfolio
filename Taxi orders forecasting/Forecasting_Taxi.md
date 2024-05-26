@@ -421,7 +421,7 @@ df.plot(figsize=(15,5), legend=False, title='Количество заказов
 ```
 
 ::: {.output .display_data}
-![](https://github.com/sotwra/Portfolio/upload/main/Taxi%20orders%20forecasting/Forecasting_Taxi_Picks/d9ca1abe592342d27d0a07b438491762bae070a4.png)
+![](Taxi orders forecasting/Forecasting_Taxi_Picks/d9ca1abe592342d27d0a07b438491762bae070a4.png)
 :::
 :::
 
